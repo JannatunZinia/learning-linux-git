@@ -1,3 +1,5 @@
  linux is foundation
 git is to track code
 c++ is a strong programming
+I am liking linux now
+its getting easy 
