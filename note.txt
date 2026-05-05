@@ -1,0 +1,3 @@
+ linux is foundation
+git is to track code
+c++ is a strong programming
